@@ -13,5 +13,9 @@ cirar um alerta teste
 
 criar a função de consulta
 
-IMPORTAR o link 
+IMPORTAR o link da API 
+
+o campo input recebe uma variavel declarada no JS que será usada na função
+
+dois modos de escrever uma chamada 
 
